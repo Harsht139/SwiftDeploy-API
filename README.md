@@ -12,9 +12,6 @@ A FastAPI-based RESTful API service that provides basic functionality and serves
 - [Deployment](#deployment)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
 ---
 
 ## API Overview
@@ -198,4 +195,5 @@ SwiftDeploy-API/
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
 
